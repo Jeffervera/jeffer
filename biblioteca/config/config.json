@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "SF45sonda",
+    "database": "desarrollo",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorAliases": false
+  }
+}
